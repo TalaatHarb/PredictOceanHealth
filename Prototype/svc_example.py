@@ -1,5 +1,7 @@
 # SVC example
 
+# For more information: http://scikit-learn.org/stable/tutorial/basic/tutorial.html
+
 import numpy as np
 X = np.array([[-1, -1], [-2, -1], [1, 1], [2, 1]])
 y = np.array([1, 1, 2, 2])
